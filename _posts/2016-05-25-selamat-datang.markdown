@@ -24,4 +24,4 @@ image: "img/post/github-blog-25-05-2016.jpg"
 
 <p>Nah kedepannya, mudah-mudahan saya bisa mengisi blog ini dengan konten-konten yang bisa bermanfaat untuk kita semua, yah isinya mungkin tidak jauh dari pengalaman-pengalaman saya dalam mengelola blog di Github Page ini dan lainnya di dunia internet.</p> 
 
-<p>Untuk sahabat semua, tidak ada salahnya untuk mencoba membuat blog di Github Page ini, gratis lho... hehehe....</p>
+<p>Untuk sahabat semua, tidak ada salahnya untuk mencoba membuat blog di Github Page ini, gratis lho... hehehe.... benarkah kang? hehehehe</p>
